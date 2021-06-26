@@ -25,6 +25,8 @@ export default function nameList(){
     'Ninguém, eu mesmo sugeri a notícia',
     'Dedo mindinho renegado pelo Lula',
     'Me nota senpai :3',
-    'Impressora do Ciro Gomes'
+    'Impressora do Ciro Gomes',
+    'Super Hétero Armamentista',
+    'Cabeça Livre'
     ]
 }
