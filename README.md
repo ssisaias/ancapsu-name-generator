@@ -31,6 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 #### Main references:
 https://react.semantic-ui.com/collections/message/
+
 https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
 
 ### License
