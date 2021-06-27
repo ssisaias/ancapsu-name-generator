@@ -14,11 +14,8 @@ export default function MainPage(){
 
     return(
        <>
-         <Grid textAlign='center' style={{ height: '100vh' }} verticalAlign='middle'>
+         <Grid container textAlign='center' style={{ height: '30em' }} verticalAlign='middle'>
             <Grid.Column style={{ maxWidth: 450 }}>
-            <Header as='h2' color='black' textAlign='center'>
-                Gerador de nick - Ancapsu
-            </Header>
             <Form size='large'>
                 
                 <Button onClick={handleNameSelect} color='yellow' fluid size='large'>
@@ -26,6 +23,9 @@ export default function MainPage(){
                 </Button>
                 
             </Form>
+            <Header as='h2' color='black' textAlign='center'>
+                Essa notícia foi sugerida por....
+            </Header>
             <Message>
                {selectedName}
             </Message>
