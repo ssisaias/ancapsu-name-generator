@@ -28,7 +28,7 @@ export default function nameList(){
     'Impressora do Ciro Gomes',
     'Super Hétero Armamentista',
     'Cabeça Livre',
-    'Ayn Rand de Minissaia'
+    'Ayn Rand de Minissaia',
     'Gilete Amolado'
     ]
 }
