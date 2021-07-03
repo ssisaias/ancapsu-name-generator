@@ -27,6 +27,7 @@ export default function nameList(){
     'Me nota senpai :3',
     'Impressora do Ciro Gomes',
     'Super Hétero Armamentista',
-    'Cabeça Livre'
+    'Cabeça Livre',
+    'Ayn Rand de Minissaia'
     ]
 }
