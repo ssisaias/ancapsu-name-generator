@@ -29,6 +29,8 @@ export default function nameList(){
     'Super Hétero Armamentista',
     'Cabeça Livre',
     'Ayn Rand de Minissaia',
-    'Gilete Amolado'
+    'Gilete Amolado',
+    'Nação Libertária',
+    'Disjuntor Libertário'
     ]
 }
