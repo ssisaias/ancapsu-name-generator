@@ -31,6 +31,13 @@ export default function nameList(){
     'Ayn Rand de Minissaia',
     'Gilete Amolado',
     'Nação Libertária',
-    'Disjuntor Libertário'
+    'Disjuntor Libertário',
+    'Peter, minha avó está solteira',
+    'Peter, eu não sou homossexual',
+    'Terceirizado da Índia',
+    'Loira de Florianópolis',
+    'Atleta sedentário',
+    'Daniel Fraga Socialista',
+    'Barba do Peter'
     ]
 }
