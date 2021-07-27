@@ -38,6 +38,9 @@ export default function nameList(){
     'Loira de Florianópolis',
     'Atleta sedentário',
     'Daniel Fraga Socialista',
-    'Barba do Peter'
+    'Barba do Peter',
+    'Professor de Escola Pública do Ancapistão',
+    'Servidor Público do Ancapistão',
+    'Joyce frequenta o clube da luta'
     ]
 }
