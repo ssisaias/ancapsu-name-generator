@@ -41,6 +41,8 @@ export default function nameList(){
     'Barba do Peter',
     'Professor de Escola Pública do Ancapistão',
     'Servidor Público do Ancapistão',
-    'Joyce frequenta o clube da luta'
+    'Joyce frequenta o clube da luta',
+    'Piloto de helicóptero do Bolsonaristão',
+    'Serviço secreto do Ancapistão'
     ]
 }
